@@ -1,3 +1,3 @@
-# Forecasting Dengue and Leptospirosis using Waste-Related Variables: Random Forest with Rank Graduation Box metrics
+# Forecasting Waste-Linked Health Risks with Random Forest: Guiding Local Action in Selected Municipalities and Cities of Cebu Province
 
-This RStudio project attempts to build and evaluate two random forest models, which forecast dengue and leptospirosis.
+This GIthub repository serves as a companion for an upcoming research article! :))
