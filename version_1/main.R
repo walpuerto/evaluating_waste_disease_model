@@ -1,5 +1,5 @@
-source("scripts/prepare_raw_data.R")
-source("scripts/evaluate_model.R")
+source("version_1/scripts/prepare_raw_data.R")
+source("version_1/scripts/evaluate_model.R")
 
 # Prepare dengue data sets
 prepare_set("raw_data/Dengue Training.csv",

@@ -1,6 +1,6 @@
-source("scripts/load_packages.r")
-source("scripts/rgb_metrics/rank_box_graduation.R")
-source("scripts/helper_functions.r")
+source("version_1/scripts/load_packages.r")
+source("rgb_metrics/rank_box_graduation.R")
+source("version_1/scripts/helper_functions.r")
 
 set.seed(1000)
 
