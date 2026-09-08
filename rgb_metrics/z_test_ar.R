@@ -13,7 +13,7 @@ var_hat_ar <- function(Y1M1, Y2M1, Y1M2, Y2M2) {
     1:n,
     \(i) delta_hat(Y1M1[-i], Y2M1[-i], Y1M2[-i], Y2M2[-i])
   )
-  return ((n-1)/n *sum((D-mean(D))^2))
+  (n-1)/n * sum((D-mean(D))^2)
 }
 
 Z_ar <- function(Y1M1, Y2M1, Y1M2, Y2M2) {
